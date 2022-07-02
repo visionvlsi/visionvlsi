@@ -53,11 +53,11 @@ This is run by Mr. Zakir Hussain, who is an M.TECH. (VLSI System Design), who is
 
 ### Services by Vision-VLSI Industry Pvt. Ltd.:
 
-● Institute helps to install all the required EDA tools by providing all at free of cost with no additional charges.
-● All recordings are made available to watch at their convenience.
+● Institute helps to install all the required EDA tools by providing all at free of cost with no additional charges.<br/>
+● All recordings are made available to watch at their convenience.<br/>
 ● Curriculum vitae preparation on LinkedIn.
 
 ### Mode of delivery:
-● Online
+● Online<br/>
 ● Platform: Google Meet
 
