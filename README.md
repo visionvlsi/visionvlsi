@@ -46,3 +46,18 @@ are everywhere to name a few
 6. Deep learning
 7. Space applications
 8. Automobiles …etc.
+
+### Brief about the founder of Vision-VLSI PVT. LTD.
+
+This is run by Mr. Zakir Hussain, who is an M.TECH. (VLSI System Design), who is currently pursuing Ph.D. who has vast experience in the EDA tools required to build these ICs and he is also a Senior Member IEEE, he has to his credit six IEEE International conference papers.
+
+### Services by Vision-VLSI Industry Pvt. Ltd.:
+
+● Institute helps to install all the required EDA tools by providing all at free of cost with no additional charges.
+● All recordings are made available to watch at their convenience.
+● Curriculum vitae preparation on LinkedIn.
+
+### Mode of delivery:
+● Online
+● Platform: Google Meet
+
