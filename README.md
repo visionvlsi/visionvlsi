@@ -61,3 +61,6 @@ This is run by Mr. Zakir Hussain, who is an M.TECH. (VLSI System Design), who is
 ● Online<br/>
 ● Platform: Google Meet
 
+### How to contact:
+Email : vvipvtltd@gmail.com<br/>
+Mobile: 9949-426-362<br/>
