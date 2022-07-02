@@ -21,7 +21,7 @@ IC Design or Integrated Circuit Design this course requires the highly skilled p
 Further these ASICs are classified into three categories 
 
 1. Digital IC 
-2. 2. Analog IC and 3. Mixed-signal IC 
+2. Analog IC and 3. Mixed-signal IC 
 
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.
 
