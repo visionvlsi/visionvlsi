@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-IC Design or Integrated Circuit Design this course requires the highly skilled professionals to design electronic chips also called ICs. Broadly IC technology is classified into two 1. ASICs (Application Specific Integrated Circuit) 2. FPGAs (Field Programmable Gate Array). 
+<p align="justify">IC Design or Integrated Circuit Design this course requires the highly skilled professionals to design electronic chips also called ICs. Broadly IC technology is classified into two 1. ASICs (Application Specific Integrated Circuit) 2. FPGAs (Field Programmable Gate Array).</p>
 
 Further these ASICs are classified into three categories 
 
