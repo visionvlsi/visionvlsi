@@ -38,14 +38,15 @@ Similarly, Mixed-signal IC design has its own EDA tool set
 ICs are used in different industries other than PCs,
 laptops, smartphones, and consumer electronics, ICs
 are everywhere to name a few</p>
-1. Military applications
-2. Medical applications
-3. Avionics
-4. Artificial Intelligence
-5. Machine learning
-6. Deep learning
-7. Space applications
-8. Automobiles …etc.
+<ol>
+<li>Military applications</li>
+<li>Medical applications</li>
+<li>Avionics</li>
+<li>Artificial Intelligence</li>
+<li>Machine learning</li>
+<li>Deep learning</li>
+<li>Space applications</li>
+<li>Automobiles …etc.</li></ol>
 
 ### Brief about the founder of Vision-VLSI Industry Training Institute
 
