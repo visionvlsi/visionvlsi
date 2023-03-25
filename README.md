@@ -25,7 +25,7 @@ Further these ASICs are classified into three categories
 
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.
 
-IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Pvt. Ltd.” is committed to provide the hands-on online training on these required EDA Tools along with the subject required
+IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Training Institute” is committed to provide the hands-on online training on these required EDA Tools along with the subject required
 to develop these ICs.
 
 Digital systems or circuits can be built on FPGAs or it can take ASIC design approach and it has its own EDA tools set.
@@ -47,11 +47,11 @@ are everywhere to name a few
 7. Space applications
 8. Automobiles …etc.
 
-### Brief about the founder of Vision-VLSI PVT. LTD.
+### Brief about the founder of Vision-VLSI Industry Training Institute
 
 This is run by Mr. Zakir Hussain, who is an M.TECH. (VLSI System Design), who is currently pursuing Ph.D. who has vast experience in the EDA tools required to build these ICs and he is also a Senior Member IEEE, he has to his credit six IEEE International conference papers.
 
-### Services by Vision-VLSI Industry Pvt. Ltd.:
+### Services by Vision-VLSI Industry Training Institute:
 
 ● Institute helps to install all the required EDA tools by providing all at free of cost with no additional charges.<br/>
 ● All recordings are made available to watch at their convenience.<br/>
