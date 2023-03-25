@@ -25,8 +25,8 @@ Further these ASICs are classified into three categories
 
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.
 
-IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Training Institute” is committed to provide the hands-on online training on these required EDA Tools along with the subject required
-to develop these ICs.
+<p align="justify">IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Training Institute” is committed to provide the hands-on online training on these required EDA Tools along with the subject required
+to develop these ICs.</p>
 
 Digital systems or circuits can be built on FPGAs or it can take ASIC design approach and it has its own EDA tools set.
 
