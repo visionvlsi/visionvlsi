@@ -34,10 +34,10 @@ Analog Systems or circuits are built exclusively by ASIC design approach, which 
 
 Similarly, Mixed-signal IC design has its own EDA tool set
 
-Application domains:
+<p align="justify">Application domains:
 ICs are used in different industries other than PCs,
 laptops, smartphones, and consumer electronics, ICs
-are everywhere to name a few
+are everywhere to name a few</p>
 1. Military applications
 2. Medical applications
 3. Avionics
