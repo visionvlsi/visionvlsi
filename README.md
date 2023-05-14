@@ -29,11 +29,11 @@ with the advent of technology and the necessity there are other types such as So
 <p align="justify">IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Training Institute” is committed to provide the hands-on online training on these required EDA Tools along with the subject required
 to develop these ICs.</p>
 
-Digital systems or circuits can be built on FPGAs or it can take ASIC design approach and it has its own EDA tools set.
+Digital systems or circuits can be built on FPGA or it can take ASIC design approach and it has its own EDA tools set respectively.
 
 Analog Systems or circuits are built exclusively by ASIC design approach, which has its own EDA tools set.
 
-Similarly, Mixed-signal IC design has its own EDA tool set
+Similarly, Mixed-signal IC design has its own EDA tool set.
 
 <p align="justify">Application domains:
 ICs are used in different industries other than PCs,
