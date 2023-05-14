@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 Further these ASICs are classified into three categories 
 
 1. Digital IC 
-2. Analog IC and 3. Mixed-signal IC 
+2. Analog IC
+3. Mixed-signal IC 
 
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-on-Chips and many more.
 
